@@ -57,3 +57,9 @@ below.
 - racy Alloway 2019: JPMorgan Creates ‘Volfefe’ Index to Track Trump Tweet Impact, Bloomberg
 
 - Teng (Diana) Ma 2014: the social impact on product launch, McCann WorldGroup
+
+## Contibutors
+- Aaquib Ali
+- Ekta Arora 
+- Ruthvik Kanukunta
+- Shrejal Singh
