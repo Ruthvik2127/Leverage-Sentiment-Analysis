@@ -1,6 +1,8 @@
 <p align="center">
  <img src="https://user-images.githubusercontent.com/84700316/137071261-a9e1406d-3cc2-41b2-82f8-e225daafd3da.png" width=300px>
  </p>
+ 
+## Leverage Sentiment Analysis :
 
 👉 For companies that own many product lines and launch new products, understanding customers’ needs and getting quick feedback is core to their business and success. Such insights
 have historically been drawn from manual market research (e.g. hard-copy surveys and phone calls), but digital channels are becoming key sources of competitive intelligence and 
